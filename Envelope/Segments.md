@@ -3,31 +3,31 @@ Media Mgmt Taxonomy
 
 From March 10, 2013 Concept Notes and Prototype on Wordpress
 
-Briefing Bullets
+**Briefing Bullets**  
 News updates, reviews and previews
 http://civicsalon.com/category/briefing
 
-Declamation Slams
+**Declamation Slams**  
 Competitive declamatory jam slams
 http://civicsalon.com/category/declamoslam
    
-60 Seconds From the Future  
+**60 Seconds From the Future**  
 Top questions about topic of the show answered by top expert in 60 seconds!  
 http://TheShow/category/60 
 
-Design Challenge
+**Design Challenge**  
 Participatory design challenge
 http://civicsalon.com/category/design
 
-In Session  
+**In Session**  
 Convening, welcoming, transitioning and wrapping up each Salon, it's segments and activities
 http://civicsalon.com/category/session
 
-Joking Aside  
+**Joking Aside**  
 Visionary lunacy, humorous satire and sardonic commentar
 http://civicsalon.com/category/joking
 
-Keynote Presentation  
+**Keynote Presentation**  
 Featured speeches and other presentations
 http://civicsalon.com/category/keynote
  
