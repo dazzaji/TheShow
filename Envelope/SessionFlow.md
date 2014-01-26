@@ -1,5 +1,8 @@
-# A New Media Mode for Mass-Scale Individually-Centered
-Models, Mechanisms & Methods for 
+# Personal Media Trust Networks:
+## Models, Mechanisms & Methods for Media Markets 
+---
+
+
 
 ## The Role and Relationships of Participants
 
@@ -104,4 +107,25 @@ c) Volunteer  Participants in TheShow (Contributors)
 5) Outro Live Session for synthesizing the interim feedback and engaging with participants in real-time, and 
 
 6) Tailing Session(s) affording a period for further conversation, critique or other retrospective contributions.  
+
+
+
+-----
+# Parking Lot:
+
+**Concepts and Phrases**
+
+
+* System Characteristics:  
+
+- Individually Centered,     
+- Large Scale,     
+- Dynamically Adaptive    
+
+* Design Goals:
+
+- Maker-Centered Mode for Cooperation realizing Innovation,   
+- Market-Centered Market for Commerce realizing Monetization,     
+- Mission-Centered Message for Cause realizing Vision  
+
 
