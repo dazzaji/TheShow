@@ -1,5 +1,5 @@
-# Personal Media Trust Networks:
-## Models, Mechanisms & Methods for Media Markets 
+# Personal Media Trust Networks: 
+Models, Mechanisms & Methods for Media Markets 
 ---
 
 
