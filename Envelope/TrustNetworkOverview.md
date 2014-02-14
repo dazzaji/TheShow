@@ -23,7 +23,7 @@ The eCitizenConnect research project explores how existing mass-scale media serv
 
 * Below is an overview of the key components, functions, flows, roles, relationships and architecture of Personal Media Trust Networks:
 
-# [Trust Networks][3]
+# Trust Networks
 
 ##  Resources: Network Infrastructure Services
 *   Network Services and Software  
