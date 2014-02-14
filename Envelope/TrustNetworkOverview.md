@@ -2,16 +2,26 @@ The eCitizenConnect research project explores how existing mass-scale media serv
   
  The eCitizenConnect approach was refined during a [2014 winter session MIT IAP Project][1] used, in part, for the San Francisco, New York and London ["LegalHackathon.Net" content syndication ][2]and collaboration system. Â   
   
- Modeling traditional television networks, stations, studios, programs, pilots, seasons, episodes and segments. Â The method also extrapolates from business, legal and technical media processes such as syndication, trans-media and co-branded arrangements. Â   
+ Modeling traditional television networks, stations, studios, programs, pilots, seasons, episodes and segments. Â The method also extrapolates from business, legal and technical media processes such as syndication, trans-media and co-branded arrangements.    
   
  Some of the interesting results from this transformation include:  
   
    
-> *Public Broadcast Media NetworkbecomesPersonal Media Trust Network*Â 
-> *Television Production and Post-Production StudiosbecomesHacker Space and Agile Design Studios*
-> *UndifferentiatedÂ Passive AudiencebecomesIndividual Contributing Participants**  
-* Below is an overview of the key components, functions, flows, roles, relationships and architecture of a Personal Media Trust Network:Â   
-## Trust Networks
+* Public Broadcast Media Network
+becomes
+* Personal Media Trust Network
+
+* Television Production and Post-Production Studios
+becomes
+*Hacker Space and Agile Design Studios
+
+* UndifferentiatedÂ Passive Audience
+becomes
+* Individual Contributing Participants 
+
+* Below is an overview of the key components, functions, flows, roles, relationships and architecture of Personal Media Trust Networks:
+
+# Trust Networks
 
   
 Studio and Station Syndicates  
@@ -90,5 +100,5 @@ Notes on Other Entities:
 
 *   Beneficial owners of licensed media of a Program: For example, content used from a non-Network person that is licensed and allowed for syndication according to creative commons or other license terms. These people have very limited rights as well. For instance, perhaps they may file a dispute or complaint re the use of their media.)
 
- [1]: https://ecitizen.mit.edu/TheShow
- [2]: http://legalhackathon.net/multisite-live-programming-and-collaboration-concept/
+ [1]: [https://ecitizen.mit.edu/TheShow](https://ecitizen.mit.edu/TheShow)
+ [2]: [http://legalhackathon.net/multisite-live-programming-and-collaboration-concept](http://legalhackathon.net/multisite-live-programming-and-collaboration-concept/)
