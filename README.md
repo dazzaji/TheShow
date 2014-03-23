@@ -3,8 +3,6 @@
 
 =======
 
-TheShow is brought to you by the MIT Human Dynamics Lab  
-
-IAP Project of the MIT Media Lab  
+TheShow was a winter 2013 an IAP Project offered by Dazza Greenwood of the MIT Media Lab  
 
 
